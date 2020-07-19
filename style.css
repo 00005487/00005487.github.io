@@ -1,0 +1,10 @@
+.container{
+  padding:37px;
+}
+
+.toDos{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  width:150px;
+}
